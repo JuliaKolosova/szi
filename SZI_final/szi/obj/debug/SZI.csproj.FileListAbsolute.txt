@@ -1,0 +1,140 @@
+c:\users\admin\documents\visual studio 2015\Projects\SZI\SZI\bin\Debug\SZI.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\SZI\SZI\bin\Debug\SZI.exe
+c:\users\admin\documents\visual studio 2015\Projects\SZI\SZI\bin\Debug\SZI.pdb
+c:\users\admin\documents\visual studio 2015\Projects\SZI\SZI\obj\Debug\SZI.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\SZI\SZI\obj\Debug\MainWindow.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\SZI\SZI\obj\Debug\App.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\SZI\SZI\obj\Debug\SZI_MarkupCompile.cache
+c:\users\admin\documents\visual studio 2015\Projects\SZI\SZI\obj\Debug\SZI_MarkupCompile.lref
+c:\users\admin\documents\visual studio 2015\Projects\SZI\SZI\obj\Debug\MainWindow.baml
+c:\users\admin\documents\visual studio 2015\Projects\SZI\SZI\obj\Debug\SZI.g.resources
+c:\users\admin\documents\visual studio 2015\Projects\SZI\SZI\obj\Debug\SZI.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\SZI\SZI\obj\Debug\SZI.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\SZI\SZI\obj\Debug\SZI.exe
+c:\users\admin\documents\visual studio 2015\Projects\SZI\SZI\obj\Debug\SZI.pdb
+c:\users\admin\documents\visual studio 2015\Projects\SZI\SZI\obj\Debug\CreateFileWindow.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\SZI\SZI\obj\Debug\CreateFileWindow.baml
+c:\users\admin\documents\visual studio 2015\Projects\SZI\SZI\obj\Debug\MatrixWindow.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\SZI\SZI\obj\Debug\MatrixWindow.baml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SZI\SZI\obj\Debug\EditWindow.g.cs
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SZI\SZI\obj\Debug\EditWindow.baml
+C:\Users\Soniko-sama\Documents\Учеба\Основы ИБ\SZI2\SZI\SZI\bin\Debug\SZI.exe.config
+C:\Users\Soniko-sama\Documents\Учеба\Основы ИБ\SZI2\SZI\SZI\obj\Debug\SZI.exe
+C:\Users\Soniko-sama\Documents\Учеба\Основы ИБ\SZI2\SZI\SZI\obj\Debug\SZI.pdb
+C:\Users\Soniko-sama\Documents\Учеба\Основы ИБ\SZI2\SZI\SZI\bin\Debug\SZI.exe
+C:\Users\Soniko-sama\Documents\Учеба\Основы ИБ\SZI2\SZI\SZI\bin\Debug\SZI.pdb
+C:\Users\Soniko-sama\Documents\Учеба\Основы ИБ\SZI2\SZI\SZI\obj\Debug\SZI.csprojResolveAssemblyReference.cache
+C:\Users\Soniko-sama\Documents\Учеба\Основы ИБ\SZI2\SZI\SZI\obj\Debug\CreateFileWindow.g.cs
+C:\Users\Soniko-sama\Documents\Учеба\Основы ИБ\SZI2\SZI\SZI\obj\Debug\EditWindow.g.cs
+C:\Users\Soniko-sama\Documents\Учеба\Основы ИБ\SZI2\SZI\SZI\obj\Debug\MainWindow.g.cs
+C:\Users\Soniko-sama\Documents\Учеба\Основы ИБ\SZI2\SZI\SZI\obj\Debug\MatrixWindow.g.cs
+C:\Users\Soniko-sama\Documents\Учеба\Основы ИБ\SZI2\SZI\SZI\obj\Debug\App.g.cs
+C:\Users\Soniko-sama\Documents\Учеба\Основы ИБ\SZI2\SZI\SZI\obj\Debug\SZI_MarkupCompile.cache
+C:\Users\Soniko-sama\Documents\Учеба\Основы ИБ\SZI2\SZI\SZI\obj\Debug\SZI_MarkupCompile.lref
+C:\Users\Soniko-sama\Documents\Учеба\Основы ИБ\SZI2\SZI\SZI\obj\Debug\CreateFileWindow.baml
+C:\Users\Soniko-sama\Documents\Учеба\Основы ИБ\SZI2\SZI\SZI\obj\Debug\EditWindow.baml
+C:\Users\Soniko-sama\Documents\Учеба\Основы ИБ\SZI2\SZI\SZI\obj\Debug\MainWindow.baml
+C:\Users\Soniko-sama\Documents\Учеба\Основы ИБ\SZI2\SZI\SZI\obj\Debug\MatrixWindow.baml
+C:\Users\Soniko-sama\Documents\Учеба\Основы ИБ\SZI2\SZI\SZI\obj\Debug\SZI.g.resources
+C:\Users\Soniko-sama\Documents\Учеба\Основы ИБ\SZI2\SZI\SZI\obj\Debug\SZI.Properties.Resources.resources
+C:\Users\Soniko-sama\Documents\Учеба\Основы ИБ\SZI2\SZI\SZI\obj\Debug\SZI.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SZI3\SZI\bin\Debug\SZI.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SZI3\SZI\obj\Debug\SZI.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SZI3\SZI\obj\Debug\SZI.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SZI3\SZI\obj\Debug\SZI.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SZI3\SZI\obj\Debug\CreateFileWindow.g.cs
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SZI3\SZI\obj\Debug\EditWindow.g.cs
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SZI3\SZI\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SZI3\SZI\obj\Debug\MatrixWindow.g.cs
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SZI3\SZI\obj\Debug\App.g.cs
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SZI3\SZI\obj\Debug\SZI_MarkupCompile.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SZI3\SZI\obj\Debug\SZI_MarkupCompile.lref
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SZI3\SZI\bin\Debug\SZI.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SZI3\SZI\bin\Debug\SZI.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SZI3\SZI\obj\Debug\CreateFileWindow.baml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SZI3\SZI\obj\Debug\EditWindow.baml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SZI3\SZI\obj\Debug\MainWindow.baml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SZI3\SZI\obj\Debug\MatrixWindow.baml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SZI3\SZI\obj\Debug\SZI.g.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SZI3\SZI\obj\Debug\SZI.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SZI3\SZI\obj\Debug\SZI.csproj.GenerateResource.Cache
+D:\Универ\Магистр\Математические модели информационной безопасности\SZI_final\SZI\bin\Debug\SZI.exe.config
+D:\Универ\Магистр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\SZI.exe
+D:\Универ\Магистр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\SZI.pdb
+D:\Универ\Магистр\Математические модели информационной безопасности\SZI_final\SZI\bin\Debug\SZI.exe
+D:\Универ\Магистр\Математические модели информационной безопасности\SZI_final\SZI\bin\Debug\SZI.pdb
+D:\Универ\Магистр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\SZI.csprojResolveAssemblyReference.cache
+D:\Универ\Магистр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\CreateFileWindow.g.cs
+D:\Универ\Магистр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\EditWindow.g.cs
+D:\Универ\Магистр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\MainWindow.g.cs
+D:\Универ\Магистр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\MatrixWindow.g.cs
+D:\Универ\Магистр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\App.g.cs
+D:\Универ\Магистр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\SZI_MarkupCompile.cache
+D:\Универ\Магистр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\SZI_MarkupCompile.lref
+D:\Универ\Магистр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\CreateFileWindow.baml
+D:\Универ\Магистр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\EditWindow.baml
+D:\Универ\Магистр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\MainWindow.baml
+D:\Универ\Магистр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\MatrixWindow.baml
+D:\Универ\Магистр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\SZI.g.resources
+D:\Универ\Магистр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\SZI.Properties.Resources.resources
+D:\Универ\Магистр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\SZI.csproj.GenerateResource.Cache
+D:\Универ\Магистр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\ForaWindow.g.cs
+D:\Универ\Магистр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\ForaWindow.baml
+D:\Универ\Магистр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\FormaA.g.cs
+D:\Универ\Магистр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\FormaA.baml
+D:\Универ\Магистр\1 триместр\Математические модели информационной безопасности\SZI_final\SZI\bin\Debug\SZI.exe.config
+D:\Универ\Магистр\1 триместр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\SZI.exe
+D:\Универ\Магистр\1 триместр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\SZI.pdb
+D:\Универ\Магистр\1 триместр\Математические модели информационной безопасности\SZI_final\SZI\bin\Debug\SZI.exe
+D:\Универ\Магистр\1 триместр\Математические модели информационной безопасности\SZI_final\SZI\bin\Debug\SZI.pdb
+D:\Универ\Магистр\1 триместр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\SZI.csprojResolveAssemblyReference.cache
+D:\Универ\Магистр\1 триместр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\CreateFileWindow.g.cs
+D:\Универ\Магистр\1 триместр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\EditWindow.g.cs
+D:\Универ\Магистр\1 триместр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\ForaWindow.g.cs
+D:\Универ\Магистр\1 триместр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\FormaA.g.cs
+D:\Универ\Магистр\1 триместр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\MainWindow.g.cs
+D:\Универ\Магистр\1 триместр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\MatrixWindow.g.cs
+D:\Универ\Магистр\1 триместр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\App.g.cs
+D:\Универ\Магистр\1 триместр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\SZI_MarkupCompile.cache
+D:\Универ\Магистр\1 триместр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\SZI_MarkupCompile.lref
+D:\Универ\Магистр\1 триместр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\CreateFileWindow.baml
+D:\Универ\Магистр\1 триместр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\EditWindow.baml
+D:\Универ\Магистр\1 триместр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\ForaWindow.baml
+D:\Универ\Магистр\1 триместр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\FormaA.baml
+D:\Универ\Магистр\1 триместр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\MainWindow.baml
+D:\Универ\Магистр\1 триместр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\MatrixWindow.baml
+D:\Универ\Магистр\1 триместр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\SZI.g.resources
+D:\Универ\Магистр\1 триместр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\SZI.Properties.Resources.resources
+D:\Универ\Магистр\1 триместр\Математические модели информационной безопасности\SZI_final\SZI\obj\Debug\SZI.csproj.GenerateResource.Cache
+D:\Универ\Магистр\SZI_final\SZI\bin\Debug\SZI.exe.config
+D:\Универ\Магистр\SZI_final\SZI\obj\Debug\SZI.exe
+D:\Универ\Магистр\SZI_final\SZI\obj\Debug\SZI.pdb
+D:\Универ\Магистр\SZI_final\SZI\bin\Debug\SZI.exe
+D:\Универ\Магистр\SZI_final\SZI\bin\Debug\SZI.pdb
+D:\Универ\Магистр\SZI_final\SZI\obj\Debug\SZI.csprojResolveAssemblyReference.cache
+D:\Универ\Магистр\SZI_final\SZI\obj\Debug\CreateFileWindow.g.cs
+D:\Универ\Магистр\SZI_final\SZI\obj\Debug\EditWindow.g.cs
+D:\Универ\Магистр\SZI_final\SZI\obj\Debug\ForaWindow.g.cs
+D:\Универ\Магистр\SZI_final\SZI\obj\Debug\FormaA.g.cs
+D:\Универ\Магистр\SZI_final\SZI\obj\Debug\MainWindow.g.cs
+D:\Универ\Магистр\SZI_final\SZI\obj\Debug\MatrixWindow.g.cs
+D:\Универ\Магистр\SZI_final\SZI\obj\Debug\App.g.cs
+D:\Универ\Магистр\SZI_final\SZI\obj\Debug\SZI_MarkupCompile.cache
+D:\Универ\Магистр\SZI_final\SZI\obj\Debug\SZI_MarkupCompile.lref
+D:\Универ\Магистр\SZI_final\SZI\obj\Debug\CreateFileWindow.baml
+D:\Универ\Магистр\SZI_final\SZI\obj\Debug\EditWindow.baml
+D:\Универ\Магистр\SZI_final\SZI\obj\Debug\ForaWindow.baml
+D:\Универ\Магистр\SZI_final\SZI\obj\Debug\FormaA.baml
+D:\Универ\Магистр\SZI_final\SZI\obj\Debug\MainWindow.baml
+D:\Универ\Магистр\SZI_final\SZI\obj\Debug\MatrixWindow.baml
+D:\Универ\Магистр\SZI_final\SZI\obj\Debug\SZI.g.resources
+D:\Универ\Магистр\SZI_final\SZI\obj\Debug\SZI.Properties.Resources.resources
+D:\Универ\Магистр\SZI_final\SZI\obj\Debug\SZI.csproj.GenerateResource.Cache
+D:\Универ\Магистр\SZI_final\SZI\bin\Debug\EntityFramework.dll
+D:\Универ\Магистр\SZI_final\SZI\bin\Debug\EntityFramework.SqlServer.dll
+D:\Универ\Магистр\SZI_final\SZI\bin\Debug\System.Data.SQLite.dll
+D:\Универ\Магистр\SZI_final\SZI\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Универ\Магистр\SZI_final\SZI\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Универ\Магистр\SZI_final\SZI\bin\Debug\EntityFramework.xml
+D:\Универ\Магистр\SZI_final\SZI\bin\Debug\EntityFramework.SqlServer.xml
+D:\Универ\Магистр\SZI_final\SZI\bin\Debug\System.Data.SQLite.xml
